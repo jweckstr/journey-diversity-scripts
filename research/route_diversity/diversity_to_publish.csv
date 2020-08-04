@@ -1,0 +1,20 @@
+id,name,buffer,feeds,download_date,extract_start_date,lon,lat,license_files,country,publishable
+amsterdam_2017,Amsterdam,30,netherlands,2017-10-05,,4.8977910914,52.3736801273,"",Netherlands,0
+amsterdam_2018,Amsterdam,30,netherlands,2018-10-02,,4.8977910914,52.3736801273,"",Netherlands,0
+auckland_2016,Auckland,30,auckland,2016-03-05,,174.7909321932,-36.8720519609,"",New Zealand,0
+auckland_2018,Auckland,30,auckland,2018-11-01,,174.7909321932,-36.8720519609,"",New Zealand,0
+austin_2017,Austin,30,austin,2017-10-27,,-97.7284894399,30.3032748752,"",USA,0
+austin_2018,Austin,30,austin,2018-10-09,,-97.7284894399,30.3032748752,"",USA,0
+baltimore_2017,Baltimore,30,baltimore,2017-03-10,,-76.6288645356,39.2989921578,"",USA,0
+baltimore_2018,Baltimore,30,baltimore,2018-03-08,,-76.6288645356,39.2989921578,"",USA,0
+columbus_2017,Columbus,30,columbus,2017-03-15,,-82.9693911834,40.0061394358,"",USA,0
+columbus_2018,Columbus,30,columbus,2018-03-03,,-82.9693911834,40.0061394358,"",USA,0
+helsinki_2014,Helsinki,30,helsinki,2014-09-30,,24.9408571473,60.1732561813,"",Finland,0
+helsinki_2016,Helsinki,30,helsinki,2016-03-22,,24.9408571473,60.1732561813,"",Finland,0
+helsinki_2018,Helsinki,30,helsinki,2018-11-13,,24.9408571473,60.1732561813,"",Finland,0
+houston_2015,Houston,30,houston,2015-03-23,,-95.3670206718,29.755512029,"",USA,0
+houston_2018,Houston,30,houston,2018-03-27,,-95.3670206718,29.755512029,"",USA,0
+wellington_2017,Wellington,30,wellington,2017-09-16,,174.8522366861,-41.2232617907,"",New Zealand,0
+wellington_2018,Wellington,30,wellington,2018-10-01,,174.8522366861,-41.2232617907,"",New Zealand,0
+indianapolis_2016,Indianapolis,30,indianapolis,2016-09-01,,-86.158005,39.768396,"",USA,0
+indianapolis_2019,Indianapolis,30,indianapolis,2019-09-02,,-86.158005,39.768396,"",USA,0
